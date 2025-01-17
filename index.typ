@@ -16,3 +16,6 @@
   abstract: [Конспект и материалы для подготовки к экзаменам],
   table-of-contents: outline(depth: 2)
 )
+
+#include "src/000_информатика_это.typ"
+
