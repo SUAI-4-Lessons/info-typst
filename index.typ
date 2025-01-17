@@ -23,3 +23,6 @@
 
 #include "src/002_принципы_фон_неймана.typ"
 
+#include "src/003_данные_в_вм.typ"
+
+#include "src/004_типы_данных.typ"
