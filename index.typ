@@ -26,3 +26,5 @@
 #include "src/003_данные_в_вм.typ"
 
 #include "src/004_типы_данных.typ"
+
+#include "src/005_перевод_систем_счисления.typ"
