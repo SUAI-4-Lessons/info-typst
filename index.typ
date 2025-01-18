@@ -14,8 +14,13 @@
     "Панков Василий <pank-su>",
   date: datetime.today(),
   abstract: [Конспект и материалы для подготовки к экзаменам],
-  table-of-contents: outline(depth: 2)
+  table-of-contents: outline(depth: 2),
+  preface: [
+    #include "questions.typ"
+  ],
+  external-link-circle: false
 )
+
 
 #include "src/000_информатика_это.typ"
 
