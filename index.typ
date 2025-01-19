@@ -73,3 +73,5 @@
 #counter(heading).update(0)
 
 #include "src/п1_matlab.typ"
+
+#include "src/п2_задачи.typ"
